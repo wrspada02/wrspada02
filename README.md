@@ -1,5 +1,5 @@
 ### Olá eu sou o William Rodrigues Spada, estudante de programação e tecnologia. 👋
-Atualmente sou estudante de Engenharia da computação, Ciência da computação e também da stack Front-end.
+Atualmente sou estudante de Engenharia da computaçã e da stack Front-end.
 
 <div align="center">
   <a href="https://github.com/wrspada02">
