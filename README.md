@@ -1,5 +1,5 @@
 ### Olá eu sou o William Rodrigues Spada, estudante de programação e tecnologia. 👋
-Atualmente sou estudante de Engenharia da computaçã e da stack Front-end.
+Atualmente sou estudante de Engenharia da computação e da stack Front-end.
 
 <div align="center">
   <a href="https://github.com/wrspada02">
@@ -13,6 +13,7 @@ Atualmente sou estudante de Engenharia da computaçã e da stack Front-end.
   <img align="center" alt="Will-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Will-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Will-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Will-TS" height="30" width="40" src="https://img.icons8.com/color/48/000000/typescript.svg">
   <img align="center" alt="Will-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Will-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Will-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
