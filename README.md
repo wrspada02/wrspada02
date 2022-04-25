@@ -3,6 +3,8 @@ I'm student of Engineering Computation and front-end stack.
 <br/>
 About myself: 
 I'm 19 years old, Brazilian, living in Bragança Paulista inside São Paulo.
+<br/>
+I love understanding as things works under the hood.
 
 <div align="center">
   <a href="https://github.com/wrspada02">
