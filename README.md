@@ -4,7 +4,7 @@ I'm Software Engineer student.
 About myself: 
 I'm 19 years old, Brazilian, living in Bragança Paulista inside São Paulo.
 <br/>
-I love understanding as things works.
+I love understanding how the things works.
 
 <div align="center">
   <a href="https://github.com/wrspada02">
