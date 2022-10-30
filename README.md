@@ -1,5 +1,5 @@
 ### Hello, I'm William Rodrigues Spada 👋
-I'm student of Engineering Computation and front-end stack.
+I'm Software Engineer student.
 <br/>
 About myself: 
 I'm 19 years old, Brazilian, living in Bragança Paulista inside São Paulo.
