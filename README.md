@@ -1,7 +1,4 @@
 ### Hello, I'm William Rodrigues Spada 👋
-I'm Software Engineer student.
-<br/>
-About myself: 
 I'm 19 years old, Brazilian, living in Bragança Paulista inside São Paulo.
 <br/>
 I love to understand as the things works.
