@@ -1,7 +1,7 @@
 ### Hello, I'm William Rodrigues Spada 👋
 I'm 19 years old, Brazilian, living in Bragança Paulista inside São Paulo.
 <br/>
-I like to understand how the things works.
+I like to understand how the things work.
 
 <div align="center">
   <a href="https://github.com/wrspada02">
