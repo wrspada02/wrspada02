@@ -1,5 +1,5 @@
 ### Hello, I'm William Spada 👋
-I'm 20 years old, Brazilian, living in Bragança Paulista inside São Paulo.
+I'm 20 years old, Brazilian.
 <br/>
 I like to understand how the things work.
 
