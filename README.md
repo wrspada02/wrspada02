@@ -1,6 +1,4 @@
 ### Hello, I'm William Spada 👋
-I'm 20 years old, Brazilian.
-<br/>
 I like to understand how the things work.
 
 <div align="center">
