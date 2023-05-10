@@ -1,6 +1,5 @@
 ### Hello, I'm William Spada 👋
 I like to understand how the things work
-I love computer science
 
 <div align="center">
   <a href="https://github.com/wrspada02">
