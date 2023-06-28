@@ -17,8 +17,8 @@ I like to understand how the things work
   <img align="center" alt="Will-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Will-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Will-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Will-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Will-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/789899302834274315/927316117901439016/download20220100184226.png">
+  <img align="center" alt="Will-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)">      
+  <img align="right" alt="Will-pic" height="150" style="border-radius:50px;">
 </div>
 
   ##
