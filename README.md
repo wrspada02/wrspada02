@@ -9,9 +9,9 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  linguagens = ["Node.js, PHP"];
+  linguagens = ["Node.js", "PHP"];
   bibliotecas = ["React.js"];
-  frameworks = ["Nest.js, Laravel"];
+  frameworks = ["Nest.js", "Laravel"];
   OS: ["Linux"];
 }
 ```
