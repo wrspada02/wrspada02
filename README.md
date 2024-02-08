@@ -2,13 +2,13 @@
 I like to understand how the things work
 
 ```js
-class SobreMim extends Desenvolvedor {
+class AboutMe extends Developer {
   name = "William Spada";
   area = "Fullstack Developer";
   labor = "Pride Global";
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   linguagens = ["Node.js, PHP"];
   bibliotecas = ["React.js"];
   frameworks = ["Nest.js, Laravel"];
