@@ -13,7 +13,7 @@ class Skills extends Developer {
   libraries = ["React.js"];
   frameworks = ["Nest.js", "Laravel"];
   superset = ["Typescript"];
-  OS: ["Linux"];
+  OS = ["Linux"];
 }
 ```
   <div>
