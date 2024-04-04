@@ -1,5 +1,5 @@
 ### Hello, I'm William Spada 👋
-I like to understand how the things work
+I like understanding how things work under the hood
 
 ```js
 class AboutMe extends Developer {
