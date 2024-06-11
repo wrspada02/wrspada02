@@ -5,7 +5,6 @@ I like understanding how things work under the hood
 class AboutMe extends Developer {
   name = "William Spada";
   area = "Fullstack Developer";
-  labor = "Pride Global";
 }
 
 class Skills extends Developer {
