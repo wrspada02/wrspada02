@@ -1,19 +1,30 @@
 ### Hello, I'm William Spada 👋
 I like understanding how things work under the hood
 
-```js
-class AboutMe extends Developer {
-  name = "William Spada";
-  area = "Fullstack Developer";
-}
+```rb
+class AboutMe < Developer
+ attr_reader :name, :area
 
-class Skills extends Developer {
-  languages = ["Javascript", "PHP"];
-  libraries = ["React.js"];
-  frameworks = ["Nest.js", "Laravel"];
-  superset = ["Typescript"];
-  OS = ["Linux"];
-}
+ def initialize(name:, area:)
+  @name = "William Spada";
+  @area = "Fullstack Developer";
+ end
+
+ def get_languages
+   ['Ruby', 'Javascript', 'PHP']
+ end
+
+ def get_libraries
+   ['React.js']
+ end
+
+def get_frameworks
+  ['Ruby on Rails', 'Nest.js', 'Laravel']
+end
+
+def get_os
+  ['MacOS', 'Linux']
+end
 ```
   <div>
     <a href = "mailto:williamrspada02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
