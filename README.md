@@ -3,27 +3,20 @@ I like understanding how things work under the hood
 
 ```rb
 class AboutMe < Developer
- attr_reader :name, :area
+  attr_reader :name, :area, :languages, :libraries, :frameworks, :os
+ 
+  def initialize(name:, area:)
+   @name = "William Spada";
+   @area = "Fullstack Developer";
+   @languages = ['Ruby', 'Javascript', 'PHP']
+   @libraries = ['React.js']
+   @framweworks = ['Ruby on Rails', 'Nest.js', 'Laravel']
+   @os = ['MacOS', 'Linux']
+  end
 
- def initialize(name:, area:)
-  @name = "William Spada";
-  @area = "Fullstack Developer";
- end
-
- def get_languages
-   ['Ruby', 'Javascript', 'PHP']
- end
-
- def get_libraries
-   ['React.js']
- end
-
-def get_frameworks
-  ['Ruby on Rails', 'Nest.js', 'Laravel']
-end
-
-def get_os
-  ['MacOS', 'Linux']
+  def hello_world
+    puts 'Whats up guys. Lets build the future' 
+  end
 end
 ```
   <div>
